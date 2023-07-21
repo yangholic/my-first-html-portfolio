@@ -4,5 +4,5 @@ Initial commit: Set up basic HTML portfolio structure
 - Created a public folder to organize project files
 - Added a contact.html page
 - Created an assets folder with an images subfolder for storing project images
-This initial commit establishes the foundation for my portfolio, including essential pages and folder structure.
+*This initial commit establishes the foundation for my portfolio, including essential pages and folder structure.
 
